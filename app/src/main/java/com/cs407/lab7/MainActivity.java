@@ -12,7 +12,7 @@ import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-//this is a test
+//this is a tests
 public class MainActivity extends AppCompatActivity {
     
     private final ActivityResultLauncher<String> requestPermissionLauncher = 
